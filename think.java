@@ -1,1 +1,3 @@
-this is the java code 
+this is the java code
+
+tmrw will do python 
